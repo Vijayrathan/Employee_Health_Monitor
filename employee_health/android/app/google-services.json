@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "307451812087",
+    "project_id": "employeehealth-eaf82",
+    "storage_bucket": "employeehealth-eaf82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307451812087:android:363471ad0f308be0f3dbf2",
+        "android_client_info": {
+          "package_name": "com.example.employeehealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307451812087-dn63c7jfigdugrnr4ilqdoc3otq51r0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHJKk8S0DWk4kx8qIluCPHNugK1nwEK9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307451812087-dn63c7jfigdugrnr4ilqdoc3otq51r0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
