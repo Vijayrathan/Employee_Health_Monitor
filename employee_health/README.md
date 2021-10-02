@@ -1,16 +1,18 @@
 # employeehealth
 
-A new Flutter application.
+A Flutter application.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a can help monitor the health parameters of a person. It currently uses an self-made dummy REST-API for gathering the data like temperature and pressure.
 
-A few resources to get you started if this is your first Flutter project:
+The app has an interactive UI which indicates the current overall health of a person through a meter.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This app can also be used to store the medical documents by either capturing it or loading it from the gallery, which is securely stored in a firebase cloud.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Each person login in will be allocated an separate collection in the database. So that there is no collapse in the data of the users
+
+#This project was made for hackathon as part of its usecase and is not yet configured to support real time users
+
+
+
+
